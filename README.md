@@ -24,19 +24,23 @@ La aplicación tiene como objetivo buscar libros y almacenarlos en una base de d
 
 ##### tambien en la opcion 2 podremos ver todos los libro que ya estan registrados en la base de datos:
 
-![LibroExistente](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/librosRegistrados.PNG)
+![LibroRegistrado](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/librosRegistrados.PNG)
 
 ##### Tambien en la opcion 3 podremos ver los autores registrado en la base de datos:
 
-![LibroExistente](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/autoresRegistrados.PNG)
+![Autores](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/autoresRegistrados.PNG)
 
 ##### En la opcion 4 podemos ver a los autores vivos en un determinado año:
 
-![LibroExistente](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/autoresVivos.PNG)
+![AutoresVivos](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/autoresVivos.PNG)
 
 ##### Tambien podremos filtrar los libros del idioma que elijamos de la base de datos:
 
-![LibroExistente](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/libroPorIdioma.PNG)
+![LibroIdioma](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/libroPorIdioma.PNG)
+
+##### Resultado de la busqueda por idioma:
+
+![LibroIdioma](https://github.com/EnriqueStyle/Challen2-Literatura-Alura-Oracle/blob/main/img/libroPorIdioma2.PNG)
 ## Instalacion
 
 - Descarga un copia del proyecto en tu equipo.
